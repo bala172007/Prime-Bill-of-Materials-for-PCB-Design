@@ -63,6 +63,7 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 
 # Output
+<img width="1381" height="120" alt="image" src="https://github.com/user-attachments/assets/4495e1bc-53da-41ee-9aec-02fdb1fc5117" />
 
 
 
